@@ -27,7 +27,7 @@
   <tr>
     <td rowspan="3">有监督分箱</td>
     <td>Best-KS分箱</td>
-    <td></td>
+    <td>基于变量ks指标最优的划分方法</td>
   </tr>
   <tr>
     <td>卡方分箱</td>
